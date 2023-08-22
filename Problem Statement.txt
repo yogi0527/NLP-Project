@@ -1,0 +1,26 @@
+Problem Statement:
+
+Our client, a restaurant aggregator, wants to build a recommendation system that suggests restaurants to users based on their past restaurant preferences, location, cuisine, and other factors. The client believes that there are several challenges that users face while searching for a good restaurant such as limited knowledge of new restaurants, changing preferences, and lack of personalization.
+
+Therefore, the goal of this project is to build a restaurant recommendation system that will help users discover new restaurants and provide personalized recommendations. The system will use data on user behavior, restaurant attributes, and other relevant information to provide recommendations that are most relevant to the user. The system should be able to handle large amounts of data and provide recommendations in real-time.
+
+The system should also include a user interface that allows users to search for restaurants based on location, cuisine, price range, and other factors. Additionally, the system should be able to handle user feedback and incorporate it into the recommendations. The system should also have a mechanism to rate restaurants based on user feedback and recommend highly-rated restaurants to users.
+
+Overall, the goal of this project is to build a reliable and effective restaurant recommendation system that helps users discover new restaurants and provides a great user experience while driving business to restaurants.
+
+Responsibilitis:
+
+Sure, here are some short potential responsibilities that you could mention on a resume as a Data Scientist for the Restaurant Recommendation System project:
+
+Collect and analyze data to develop a restaurant recommendation system.
+Evaluate and improve the performance of the recommendation system using statistical and machine learning models.
+Collaborate with software and data engineers to deploy the recommendation system in a production environment.
+Monitor the performance of the recommendation system in production and resolve issues.
+Stay up-to-date with advances in data science and machine learning to improve the recommendation system.
+
+
+Conducted EDA on customer data and used clustering algorithms (e.g., k-means, hierarchical, DBSCAN) to group customers into distinct segments based on behavior, preferences, demographics, or other attributes.
+Interpreted and visualized clustering results to gain insights into customer behavior, preferences, and needs, and presented them to stakeholders.
+Collaborated with team members to ensure project aligned with business objectives and customer needs.
+Monitored and updated customer segmentation model, adjusted model parameters or algorithms as needed, and documented the process and insights for future reference.
+Stayed up-to-date with latest clustering algorithms, data visualization tools, and customer segmentation techniques to improve project accuracy and usefulness.
